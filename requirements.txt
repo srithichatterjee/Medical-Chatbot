@@ -7,4 +7,4 @@ langchain-pinecone==0.2.8
 langchain-groq==0.2.3
 langchain-community==0.3.26 
 -e .
-
+faiss-cpu
